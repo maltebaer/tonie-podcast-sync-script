@@ -1,0 +1,7 @@
+# secrets
+credentials.py
+tonies.py
+
+# cache
+__pycache__
+podcasts
