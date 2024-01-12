@@ -1,6 +1,5 @@
 # secrets
-credentials.py
-tonies.py
+.env
 
 # cache
 __pycache__
