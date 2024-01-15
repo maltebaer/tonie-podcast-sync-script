@@ -1,5 +1,7 @@
 import os
 from dotenv import load_dotenv
+import sys
+sys.path.insert(0, "/Users/malte.baer/code/tonie-podcast-sync")
 from toniepodcastsync import ToniePodcastSync
 from podcasts import checker_tobi, maus_gute_nacht
 
